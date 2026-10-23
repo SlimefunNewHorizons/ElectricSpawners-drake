@@ -1,8 +1,0 @@
-name: ElectricSpawners
-version: 1.21.1-Drake
-author: TheBusyBiscuit
-depend: [Slimefun]
-
-api-version: 1.13
-
-main: com.github.drakescraft_labs.electricspawners.ElectricSpawners
